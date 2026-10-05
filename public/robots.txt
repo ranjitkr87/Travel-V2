@@ -1,0 +1,22 @@
+# robots.txt for Breeze & Banyan — Kerala & Beyond Travel Collective
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+# AI & LLM Crawler Directives
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Sitemaps & LLM Context
+Sitemap: https://ais-pre-bcgbzekrvvxioxeupnxclb-264323641319.asia-southeast1.run.app/sitemap.xml
+# LLM Instructions: /llms.txt

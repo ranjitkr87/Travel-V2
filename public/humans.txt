@@ -1,0 +1,17 @@
+/* TEAM */
+Collective: Breeze & Banyan Travel Collective
+Role: Local Hosts, Route Planners & Slow Travel Curators
+Location: 14/280 Princess Street, Fort Kochi, Kerala 682001, India
+Contact: hello@breezeandbanyan.com
+WhatsApp: +91 94471 22334
+Phone: +91 484 256 7890
+
+/* THANKS */
+Community: Kerala Backwater Boatmen, Wayanad Spice Artisans, Malabar Homestay Hosts & Heritage Conservators
+
+/* SITE */
+Last update: 2026-10-05
+Standards: HTML5, CSS3, WCAG 2.1 AAA, Schema.org JSON-LD, OpenGraph, WAI-ARIA
+Design System: Kerala Slow Travel (Organic Pebble & Capsule Architecture)
+Typography: Plus Jakarta Sans, Material Symbols Outlined
+Tech Stack: React 19, TypeScript, Tailwind CSS, Vite (Code-Split & Lazy-Loaded SPA)

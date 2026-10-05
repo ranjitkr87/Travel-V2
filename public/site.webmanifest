@@ -1,0 +1,18 @@
+{
+  "name": "Breeze & Banyan — Kerala & Beyond Travel Collective",
+  "short_name": "Breeze & Banyan",
+  "description": "Bespoke voyages through Kerala’s backwaters, spice plantations, and sanctuaries across India and the world.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcf9f4",
+  "theme_color": "#2d0528",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

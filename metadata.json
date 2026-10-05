@@ -1,0 +1,6 @@
+{
+  "name": "Breeze & Banyan — Kerala & Beyond Travel Collective",
+  "description": "Bespoke slow travel journeys through Kerala's backwaters, spice plantations, and curated destinations across India, Asia, the Middle East, and Europe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
